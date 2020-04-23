@@ -1,0 +1,13 @@
+.container__conpic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.conpic__select {
+    background-color: #757475;
+}
+
+.conpic__option {
+    color: #fff;
+}

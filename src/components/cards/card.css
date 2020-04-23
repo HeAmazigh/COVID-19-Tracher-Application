@@ -1,0 +1,34 @@
+.container {
+    background-color: #414042;
+    margin: 20px 0;
+}
+
+.card {
+    margin: 0 1% !important;
+    background-color: #414042;
+}
+
+.card__color {
+    margin: 0 1% !important;
+    background-color: #414042;
+    color:#fff;
+}
+
+.infected {
+    border: 2px solid #002D6D;
+    border-bottom: 20px solid #002D6D;
+}
+
+.recovered {
+    border: 2px solid #116315;
+    border-bottom: 20px solid #116315;
+}
+
+.deaths {
+    border: 2px solid #BC0022;
+    border-bottom: 20px solid #BC0022;
+}
+.hosp {
+    border: 2px solid rgb(236, 233, 5);
+    border-bottom: 20px solid rgb(236, 233, 5);
+}
